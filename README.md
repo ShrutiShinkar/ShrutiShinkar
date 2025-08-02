@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm a final-year Computer Science student specializing in AI & Data Science at MIT World Peace University. I'm passionate about leveraging predictive analytics and advanced statistical models to deliver actionable business insights. My experience includes developing NLP solutions, time series analysis, and end-to-end machine learning projects. I am currently seeking opportunities where I can apply my skills in data-driven decision analytics.
+
+-   🔭 I’m currently working on Agentic AI solutions for responsible tech.
+-   🌱 I’m continuously learning about federated learning, LangChain, and advanced NLP techniques.
+-   👯 I’m looking to collaborate on data science projects that solve real-world problems.
+-   📫 How to reach me: **shrutishinkar1304@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/shrutishinkar/).
 <!--
 **ShrutiShinkar/ShrutiShinkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
